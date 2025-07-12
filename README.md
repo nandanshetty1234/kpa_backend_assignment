@@ -1,12 +1,12 @@
 # KPA Backend Assignment
 
-## 🔧 Tech Stack
+## Tech Stack
 - Python
 - Django REST Framework
 - PostgreSQL
 - Git & GitHub
 
-## 🚀 Setup Instructions
+## Setup Instructions
 1. Clone the repository:
 2. Navigate into the project:
 3. Create virtual environment and activate:
@@ -20,7 +20,7 @@
 
 
 
-## 📌 APIs Implemented
+##APIs Implemented
 
 ### 1. Wheel Specification Form
 - `POST /api/forms/wheel-specifications`
@@ -32,14 +32,14 @@
 - Filters: `formNumber`, `submittedBy`, `submittedDate`
 - Returns JSON response with matching data.
 
-## ✅ Status
+## Status
 All tested and working with Postman and local server.
 
-## 📂 Deliverables
+## Deliverables
 - [x] Source Code on GitHub
 - [x] Working APIs
 - [x] Postman Collection (to be uploaded)
 - [ ] Screen Recording (to be created & uploaded)
 
----
+
 
